@@ -53,7 +53,7 @@ Numa transcrição de voz, ele virou “Luciano”. Então, se aparecer um Lucia
 
 ## Também fazem parte da bancada 🧰
 
-Tô usando **Ponytail** e **Gorumi** nessa construção também. Quero mostrar como entram no meu jeito de trabalhar conforme os episódios forem saindo, com exemplos do projeto e sem transformar tudo numa sopa de nomes de ferramenta.
+Tô usando **Ponytail** e **[Grill Me, do Matt Pocock](https://github.com/mattpocock/skills)** nessa construção também. Quero mostrar como entram no meu jeito de trabalhar conforme os episódios forem saindo, com exemplos do projeto e sem transformar tudo numa sopa de nomes de ferramenta.
 
 Tem trabalho de outras pessoas fazendo parte dessa história. Os créditos são de quem criou cada ferramenta; por aqui, eu compartilho minha experiência usando elas.
 
