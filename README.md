@@ -16,6 +16,14 @@ Tô construindo um CRM pra um cliente meu com ajuda de IA e resolvi mostrar o ca
 
 Esse repo vai ser meu caderno de bastidores. A ideia é juntar aqui os exemplos e as explicações que acompanharem os vídeos, sem precisar contar tudo de uma vez.
 
+## Por onde começar 🧭
+
+| Se você chegou querendo entender… | Pode abrir aqui |
+| --- | --- |
+| O que aconteceu com o Kanban do primeiro vídeo | [O antes, o depois e a tal borda](docs/primeiro-video.md) |
+| Pra que servem os nomes de ferramentas que eu mencionei | [Ponytail, Spec Kit e Grill Me](docs/ferramentas-da-bancada.md) |
+| Como testar sem colocar o cliente no meio da experiência | [Segurança também faz parte da construção](docs/seguranca.md) |
+
 ## A bancada por aqui 💻
 
 ```text
@@ -53,21 +61,39 @@ Numa transcrição de voz, ele virou “Luciano”. Então, se aparecer um Lucia
 
 ## Também fazem parte da bancada 🧰
 
-Tô usando **Ponytail** e **[Grill Me, do Matt Pocock](https://github.com/mattpocock/skills)** nessa construção também. Quero mostrar como entram no meu jeito de trabalhar conforme os episódios forem saindo, com exemplos do projeto e sem transformar tudo numa sopa de nomes de ferramenta.
+Tô usando **Ponytail**, **Spec Kit** e **Grill Me** nessa construção também. Cada um ajuda numa parte diferente:
+
+| Ferramenta | Como eu penso nela por aqui |
+| --- | --- |
+| [Ponytail, de Dietrich Gebert](https://github.com/DietrichGebert/ponytail) | Conferir o que já existe e evitar inventar uma solução maior que o problema. |
+| [Spec Kit, do GitHub](https://github.com/github/spec-kit) | Organizar o pedido, o plano e as tarefas antes de sair alterando tudo. |
+| [Grill Me, do Matt Pocock](https://github.com/mattpocock/skills) | Fazer as perguntas que faltaram antes de tratar uma ideia como se estivesse pronta. |
+
+Não são três modelos de IA, nem botões que garantem código certo. São ferramentas e instruções que ajudam a conduzir o trabalho do agente. [Contei melhor, com exemplos, neste texto.](docs/ferramentas-da-bancada.md)
 
 Tem trabalho de outras pessoas fazendo parte dessa história. Os créditos são de quem criou cada ferramenta; por aqui, eu compartilho minha experiência usando elas.
 
 ## Começando a série 🎬
 
-**01 · Meu CRM travava com mil leads. Olha o que mudou**
+**01 · Kanban, antes e depois: a história da borda** · publicado no YouTube
 
-O espaço entre os cards, a investigação da rolagem e uma borda que entrou na história. Antes e depois com dados fictícios, sem expor os clientes.
+O espaço entre os cards, a investigação da rolagem e uma borda que entrou na história. Preparei a demonstração com dados fictícios para comparar duas versões fora da operação do cliente. [Os bastidores desse episódio estão aqui.](docs/primeiro-video.md)
 
 **Depois disso: por dentro da torre**
 
 Quero mostrar uma tarefa passando pelo Mac, pelos terminais do Windows e pela revisão. Com um caso concreto fica bem mais fácil de entender.
 
-> Por enquanto, só esta apresentação está publicada aqui. Os links dos vídeos e os materiais entram conforme ficarem prontos.
+> O primeiro vídeo já saiu. Vou acrescentar o link aqui; os próximos episódios ainda vão ser gravados.
+
+## E a segurança nessa história? 🔐
+
+Tem cliente de verdade usando o sistema. Então não dá pra tratar todo pedido como autorização pra mexer em tudo.
+
+Uma parte do meu trabalho é justamente separar as coisas: demonstração de operação, teste de publicação, acesso necessário de acesso demais. Os agentes ajudam a implementar e revisar, mas continuam precisando de limites e evidências.
+
+Também estou planejando um laboratório isolado para aprender e testar segurança com dados fictícios. Ele ainda não está pronto. Quero mostrar a montagem e os testes conforme forem acontecendo, sem vender planejamento como resultado.
+
+[Aqui explico esses cuidados e o que quero testar no laboratório.](docs/seguranca.md)
 
 ## O que eu quero trazer pra cá 🌱
 
