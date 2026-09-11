@@ -10,9 +10,9 @@ Um CRM, dois computadores e bastante coisa pra descobrir.
 
 ## Opa, chega aí 👋
 
-Tô construindo ferramentas pra minha operação com ajuda de IA e resolvi mostrar o caminho.
+Tô construindo um CRM pra um cliente meu com ajuda de IA e resolvi mostrar o caminho.
 
-Começando por um CRM. Tem coisa que funciona, coisa que volta pra revisão e coisa que parecia simples até a gente começar a mexer. Um dos primeiros assuntos é justamente esse: uma tela com mil leads, uns espaços enormes entre os cards e uma rolagem que tava me tirando a paciência.
+É um projeto pra uma operação real. Tem coisa que funciona, coisa que volta pra revisão e coisa que parecia simples até a gente começar a mexer. Um dos primeiros assuntos é justamente esse: uma tela com mil leads, uns espaços enormes entre os cards e uma rolagem que tava me tirando a paciência.
 
 Esse repo vai ser meu caderno de bastidores. A ideia é juntar aqui os exemplos e as explicações que acompanharem os vídeos, sem precisar contar tudo de uma vez.
 
@@ -50,6 +50,12 @@ Nem tudo é automático. Eu continuo coordenando, conferindo o que voltou e apro
 Numa transcrição de voz, ele virou “Luciano”. Então, se aparecer um Luciano trabalhando no Kanban, já sabe de onde veio. 😂
 
 </details>
+
+## Também fazem parte da bancada 🧰
+
+Tô usando **Ponytail** e **Gorumi** nessa construção também. Quero mostrar como entram no meu jeito de trabalhar conforme os episódios forem saindo, com exemplos do projeto e sem transformar tudo numa sopa de nomes de ferramenta.
+
+Tem trabalho de outras pessoas fazendo parte dessa história. Os créditos são de quem criou cada ferramenta; por aqui, eu compartilho minha experiência usando elas.
 
 ## Começando a série 🎬
 
