@@ -46,4 +46,4 @@ Limites declarados pelo projeto: https://github.com/morluto/rea/blob/main/DISCLA
 
 ## Estado desta referência
 
-Somente documentação e trechos de código foram consultados. Nada instalado ou executado. Cópia independente do repositório ainda pendente; esta nota não preserva o código se a origem ficar indisponível.
+Somente documentação e trechos de código foram consultados. Nada instalado ou executado. Fork criado em 13/10/2026: https://github.com/c0d23/rea . Foi copiada somente a branch main, no commit ddcdb3c37837fb8eda0fdee92853774453f1b4ef, com código e licença MIT preservados. Não é um espelhamento de todas as branches, issues, releases e demais dados do GitHub.
